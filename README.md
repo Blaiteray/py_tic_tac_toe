@@ -7,4 +7,4 @@ At first, run `gen_raw_pos.py` using `python gen_raw_pos.py` in windows cmd or `
 Run `python t3.py` in windows cmd or `python3 t3.py` in linux cmd to play
 
 
-Note that the AI for this game is not perfect, it won't win/draw always. It was made this way to make this boring game a bit more interesting
+*Note that the AI for this game is not perfect, it won't win/draw always. It was made this way to make this boring game a bit more interesting*
