@@ -9,4 +9,4 @@ Run `python t3.py` in windows cmd or `python3 t3.py` in linux cmd to play
 
 *Note that the AI for this game is not perfect, it won't win/draw always. It was made this way to make this boring game a bit more interesting*
 ### Here's a screenshot
-![Tic Tac Toe](https://drive.google.com/file/d/11N2kkEqmqngUvZt7A5g92ydRvdgLayi9/view)
+![image]([https://drive.google.com/file/d//view](https://drive.google.com/uc?export=view&id=11N2kkEqmqngUvZt7A5g92ydRvdgLayi9))
