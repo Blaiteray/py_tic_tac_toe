@@ -8,3 +8,5 @@ Run `python t3.py` in windows cmd or `python3 t3.py` in linux cmd to play
 
 
 *Note that the AI for this game is not perfect, it won't win/draw always. It was made this way to make this boring game a bit more interesting*
+### Here's a screenshot
+https://drive.google.com/file/d/1ik8bn5q8y8UipYvwawuWwHVUFoJ7pvJP/view?usp=sharing
