@@ -1,10 +1,6 @@
 # Tic tac toe games
 ## How to setup
-Make sure `python 3.9` or newer version is installed in your pc
-If you are in linux operating system, also make sure tkinter is installed as well
-At first, run `gen_raw_pos.py` using `python gen_raw_pos.py` in windows cmd or `python3 gen_raw_pos.py` in linux terminal
-## How to play
-Run `python t3.py` in windows cmd or `python3 t3.py` in linux cmd to play
+No setup step required. If you are in windows just, open `t3.exe` in the `win/dist` folder to play. If you are in debian based linux os, open `t3` from `deb/dist`.
 
 
 *Note that the AI for this game is not perfect, it won't win/draw always. It was made this way to make this boring game a bit more interesting*
